@@ -11,7 +11,7 @@ nav_order: 1
 
 The sample list is a simple UTF-8 formatted CSV file (comma-delimited values) or tab-delimited .txt file that contains all the names of the samples that will be analyzed in a multiplexed fashion. If you created a list in Excel, choose <u>File</u> &rarr; <u>Save As</u> &rarr; save as type <u>CSV UTF-8 (Comma delimited) (.csv)</u>.The names will be used to create the tables that indicate how to pool the samples, but will also show up in the deconvoluted feature table. The respective table could look like this:
 
-<img src="assets/sample_list.PNG" style="zoom:67%;" />
+![](assets/sample_list.PNG)
 
 No header is needed and the sample names just need to be listed consecutively. Since randomization is an
 optional step later on, the order of the list is not necessary of importance. However, if specific knowledge about the similarity of the sample's composition exists, ordering the samples to maximize dissimilarity between potentially mixed samples is encouraged.
