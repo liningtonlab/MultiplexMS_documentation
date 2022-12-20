@@ -24,11 +24,19 @@ Windows and MacOS versions can be downloaded from our GitHub [repository](https:
 
 
 
-### Feedback
+## The MultiplexMS study
+All code and data that was used to produce plots in the MultiplexMS study are made available on Zenodo.
+[Link to the Zenodo repository](https://zenodo.org/record/7460400#.Y6IJwnbMI2w) (doi.org/10.5281/zenodo.7460400)
+Mass spectrometric data produced for the study was published on MassIVE.
+[Link to MS dataset](https://doi.org/10.25345/C5SF2MH02) (dataset MSV000090912) 
 
-For feedback, questions or comments please contact rliningt@sfu.ca
 
 
+## Feedback
+For feedback, questions or comments, please contact either of the following
+- [Michael J. J. Recchia](mailto:michael_recchia@sfu.ca)
+- [Tim U. H. Baumeister](mailto:tim.baumeister@gmx.de)
+- [Roger G. Linington](mailto:rliningt@sfu.ca) (corresponding author)
 
 ![](assets/linington_logo.PNG)
 
