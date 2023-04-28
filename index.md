@@ -20,7 +20,7 @@ In short, the tool performs three tasks:
 
 Windows and MacOS versions can be downloaded from our GitHub [repository](https://github.com/liningtonlab/MultiplexMS/releases). 
 
-> We also provide demo data and a step-by-step instruction that shall help you understand how to use the Companion tool - download the demo data [here]( https://github.com/liningtonlab/MultiplexMS/releases/download/v1.0-presubmission/MultiplexMS_demo_data.zip). 
+> We also provide demo data and a step-by-step instruction that shall help you understand how to use the Companion tool - download the demo data [here]( https://github.com/liningtonlab/MultiplexMS/releases/). 
 
 
 
