@@ -55,7 +55,13 @@ The *preparation_tables* folder contains the files with pooled sample layout. It
 
 ![](assets/preparation_table.PNG)
 
+Depending on the specified grid size and the number of samples in the sample list, multiple initial and rearranged grids will be generated. For each initial/rearranged grid pair, there will be a designated grid number. For example, for a dataset containing 925 samples in 10 x 10 multiplexing grids (100 samples each), an initial and rearranged grid will be generated for each 100 samples. Therefore 10 total initial/rearranged grid pairs will be created with designations grid_1, grid_2... grid_10. The 925 samples will not occupy all 1000 possible locations in the 10 grids, so *placeholder* samples are used to fill the gaps (see **Placeholder samples** below for details).
 
+![](assets/grid_creation_status.PNG)
+
+The created grids will be saved in the **File destination**
+
+![](assets/multiple_grids.PNG)
 
 ### Placeholder samples
 
