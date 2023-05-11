@@ -2,7 +2,7 @@
 layout: default
 title: Demo instructions
 parent: MultiplexMS
-nav_order: 3
+nav_order: 4
 ---
 
 # MultiplexMS - Demo data instructions
