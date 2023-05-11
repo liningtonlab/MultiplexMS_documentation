@@ -25,3 +25,6 @@ In addition, this tab allows users to remove MS features that are present in mor
 
 **Choose format of feature table** - The format of the deconvoluted feature table has to be determined. Are samples oriented in columns (-> features in rows) or are samples in columns (-> features in columns). If the deconvoluted feature table is untouched following the computational deconvolution step, then samples are arranged in columns.
 
+### MultiplexMS Demo
+A demonstration of the MultiplexMS workflow with detailed instructions can be downloaded [here](https://github.com/liningtonlab/MultiplexMS/releases). A copy of the demo instructions can also be found under the *demo instructions* tab on the left panel.
+
