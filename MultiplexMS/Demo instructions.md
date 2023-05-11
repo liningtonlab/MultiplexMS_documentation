@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleaning
+title: Demo instructions
 parent: MultiplexMS
 nav_order: 3
 ---
