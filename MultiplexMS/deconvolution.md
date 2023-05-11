@@ -38,3 +38,6 @@ feature table has to be determined. Specify if pooled sample names are oriented 
 
 
 > It is possible that the deconvoluted (reconstituted) peak table contains empty features (only 0: absence) following the computational deconvolution step. This might prevent you from using this table in other applications, like NP Analyst, right away. Consult the *Cleaning* tab for how to remove absent features from the freshly deconvoluted table.
+
+### MultiplexMS Demo
+A demonstration of the MultiplexMS workflow with detailed instructions can be downloaded [here](https://github.com/liningtonlab/MultiplexMS/releases). A copy of the demo instructions can also be found under the *demo instructions* tab on the left panel.
