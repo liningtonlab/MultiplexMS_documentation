@@ -67,3 +67,5 @@ The created grids will be saved in the **File destination**
 
 In case the sample count requires placeholder samples to fill up the virtual square grids, placeholder samples will also show up in the preparation table. We recommend to use the typical solvent (mix) that is used to prepare the samples for the LC-MS run, whenever a placeholder shows up. This shall guarantee that all pooled samples are at the same level of dilution. Another option is to use a QC sample in placeholder spots to ensure correct preparation and computational deconvolution by the program.
 
+### MultiplexMS Demo
+A demonstration of the MultiplexMS workflow with detailed instructions can be downloaded [here](https://github.com/liningtonlab/MultiplexMS/releases). A copy of the demo instructions can also be found under the *demo instructions* tab on the left panel.
